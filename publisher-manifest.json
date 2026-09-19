@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "6a9c82f775d917e581cd69d3",
+  "owner": "wbwftxwku",
+  "repo": "page-44fad1180af519b8022fd2f5",
+  "title": "小火箭机场推荐",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "44fad1180af519b8022fd2f5",
+      "a": "纷达网络(Fenda)",
+      "b": "小火箭机场推荐",
+      "entity": "纷达网络(Fenda)",
+      "brand": "小火箭机场推荐",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "89f64fc24d10409cbae654f11568ab2fcd4ac138536560aaa5f0f19841141a93",
+      "content": {
+        "primary_entity": "纷达网络(Fenda)",
+        "keyword1": "纷达网络(Fenda)",
+        "keyword2": "小火箭机场推荐",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择对应客户端，参照配置文档导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择与配置",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择版本，下载客户端后导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对版本，连接更顺畅",
+          "AI_DESCRIPTION": "，纷达网络提供基础版、旗舰版与团队版三档方案，分别支持 3 台、5 台与 20 台设备同时在线。旗舰版配备 IPLC 专线游戏加速优化与 7x24 优先工单支持，团队版提供 VIP 专属高带宽节点与企业定制路由。按月付费灵活，按年付可节省两个月费用。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期三个方向挑选适合的版本。",
+          "AI_FEATURES_TITLE": "按需选择版本",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 流量、3 台设备，适合轻度使用；旗舰版 300GB、5 台设备，覆盖日常流媒体与游戏需求。",
+          "AI_FEATURE_TEXT_2": "团队版提供 1000GB 流量与 20 台设备上限，搭配 VIP 专属高带宽节点，适合小型团队统一配置。",
+          "AI_FEATURE_TEXT_3": "按月付费无长期绑定，按年付仅需十个月价格；订阅周期越长，单月成本越低。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "团队协作方案",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "从选择版本到完成订阅导入，三步即可在设备上开始使用。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "纷达网络提供多档海外加速方案，覆盖个人到团队的不同设备规模，按流量与设备数灵活选择，配合客户端即可完成订阅配置。",
+          "AI_HERO_SUBTITLE": "多设备海外加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐适配不同设备规模",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年付节省两个月费用",
+          "AI_PLANS_INTRO": "基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并含 IPLC 专线，团队版每月 1000GB 支持 20 台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量消耗，在基础版、旗舰版与团队版中选定一个版本。",
+          "AI_STEP_TEXT_2": "确认设备系统与版本支持的同时在线数量，确保常用设备能全部覆盖。",
+          "AI_STEP_TEXT_3": "下载对应客户端，依照配置文档导入订阅链接，即可在设备上启用加速。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "纷达网络加速方案",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。按年付分别约 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "挑选客户端主要看设备系统，Windows、macOS、Android、iOS 各有对应客户端，路由器也可通过插件或旁路由方式配置。具体适配以客户端文档为准。",
+          "AI_FAQ_ANSWER_3": "通常复制订阅链接后导入客户端即可。不同客户端导入位置略有差异，建议先查看对应客户端帮助文档再操作。",
+          "AI_FAQ_ANSWER_4": "可以。旗舰版支持 5 台设备同时在线，团队版支持 20 台设备，手机、电脑与平板可同时连接使用。",
+          "AI_FAQ_ANSWER_5": "按年付比按月付费更划算，基础版约 ¥150/年、旗舰版约 ¥350/年、团队版约 ¥850/年。流量需求不大选基础版，追求专线与流媒体体验选旗舰版，多人多设备选团队版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐的流量和设备数量有什么区别？",
+          "AI_FAQ_QUESTION_2": "怎样挑选适合自己设备的客户端？",
+          "AI_FAQ_QUESTION_3": "拿到订阅链接后怎么导入？",
+          "AI_FAQ_QUESTION_4": "可以在多台设备上同时使用吗？",
+          "AI_FAQ_QUESTION_5": "按月付还是按年付更划算？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e3ecdbc840269e46490701a31313e5beec8ef52f06f9bc9a44e213f436d55088",
+    "sitemap.xml": "b6eb52ac809605497e05c367e77f1727214ea74bab3a427039c899b40d25290e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "09d7b2d248e505fc397ce2b254184ab168cbd109c7a2a21fdfd6f389e7f20804"
+}
